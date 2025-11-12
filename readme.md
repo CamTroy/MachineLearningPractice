@@ -11,7 +11,7 @@ To run this lab, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd SecondLab
+   cd MachineLearningPractice
    ```
 
 3. Install the required dependencies:
