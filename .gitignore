@@ -3,3 +3,6 @@ venv/
 
 # Ignore jupyter stuff
 .ipynb_checkpoints/
+
+# Ignore ML model files
+*_model.joblib
